@@ -1,6 +1,5 @@
 #include "scene.h"
 #include "logging.h"
-static int fuckall = 0;
 
 // initalizes the vectors and stuff
 void AKY_initScene(AKY_Scene *scene)
